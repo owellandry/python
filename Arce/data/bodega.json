@@ -1,0 +1,9 @@
+{
+    "123": {
+        "nombreProducto": "Marcadores",
+        "valorc": 0.0,
+        "valorv": 0.0,
+        "stockmin": 20,
+        "stockmax": 100
+    }
+}

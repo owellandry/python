@@ -1,0 +1,3 @@
+TIME_STOP = 3
+PROCENTAJE_VENTA = 1.10
+BD_PRODUCTOS = "bodega.json"
