@@ -4,11 +4,11 @@ import os
 import core as cr
 def updateInfo(bodega:dict,value:dict):
     os.system('clear')
-    bodega.update(value)
+    bodega.update(value) 
     print("Estamos procesando su información .....")
     time.sleep(pa.TIME_STOP)
 
-def buscarItem(bodega:dict):
+def buscarItem(bodega:dict): 
     os.system('clear')
     codigo = input("Ingrese el codigo del producto : ")
     dataItem = bodega.get(codigo, -1)
